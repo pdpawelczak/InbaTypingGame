@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="InbaTypingGamev1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/InbaTypingGamev1_jar</output-path>
+    <root id="archive" name="InbaTypingGamev1.jar">
+      <element id="module-output" name="InbaTypingGamev1" />
+    </root>
+  </artifact>
+</component>

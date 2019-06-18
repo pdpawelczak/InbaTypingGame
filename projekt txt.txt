@@ -1,0 +1,7 @@
+Mój projekt to prosta gra æwicz¹ca pisanie na czas. Projekt zosta³ stworzony przy wykorzystaniu jêzyka java.
+Poziom trudnoœci gry zwiêksza siê wraz z up³ywem czasu. Lista s³ow jest bardzo du¿a, gracz ma 5 ¿yæ a ka¿de s³owo, które
+dojdzie na sam dó³ ekranu i z niego zniknie zabiera graczowi jedno ¿ycie. Gracz widzi tak¿e swój wynik, który jest liczony
+na podstawie d³ugoœci s³owa. Im s³owo d³u¿sze tym wiêcej punktów otrzyma gracz. Dodatkowo w celu zabawy doda³em muzyke, która
+ma spowodaæ aby gracz wczu³ siê w grê i przyœpieszy³ tempo swojego pisania. Oprócz projektu wrzucam tak¿e plik jar, który
+umo¿liwi uruchomienie gry bez koniecznoœci otwierania projektu w intelij. Projekt wraz z baz¹ s³ów i plikiem audio oraz plikiem
+jar zajmuje oko³o 130 mb.
